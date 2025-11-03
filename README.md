@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskrutikanse31" alt="sanskrutikanse31" /></a> </p>
 
-- 🔭 I’m currently Learning **Data Structures & Algorithms,Frontend,courses etc.**
+- 
 
 - 📝 I regularly code on Leetcode [https://leetcode.com/sanskrutikanse131/](https://leetcode.com/sanskrutikanse131/)
 
