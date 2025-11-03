@@ -11,7 +11,7 @@
 
 - 📝 I regularly code on Leetcode [https://leetcode.com/sanskrutikanse131/](https://leetcode.com/sanskrutikanse131/)
 
-- 📫 How to reach me **sanskrutikanse123@gmail.com**
+- 📫 How to reach me **sanskrutikanse36@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
